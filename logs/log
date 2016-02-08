@@ -1,0 +1,671 @@
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User successfully logged in!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User not logged in, invalid credentiails!
+INFO - ProfileCtrl receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - User not logged in, invalid credentiails!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - User successfully logged in!
+INFO - ProfileCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User successfully logged in!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User not logged in, invalid credentiails!
+INFO - ProfileCtrl receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - User successfully logged in!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - User successfully logged in!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - User successfully logged in!
+INFO - ProfileCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - User not logged in, invalid credentiails!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - User successfully logged in!
+INFO - ProfileCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - ProfileCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - User not logged in, invalid credentiails!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - User successfully logged in!
+INFO - ProfileCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User successfully logged in!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User not logged in, invalid credentiails!
+INFO - ProfileCtrl receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User successfully logged in!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User not logged in, invalid credentiails!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User successfully logged in!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User not logged in, invalid credentiails!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User successfully logged in!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User not logged in, invalid credentiails!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User successfully logged in!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User successfully logged in!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - User not logged in, invalid credentiails!
+INFO - ProfileCtrl receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - User successfully logged in!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - User not logged in, invalid credentiails!
+INFO - ProfileCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished sending the success login page info.
+INFO - Forwarding the user to the home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:false
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished sending the error page data
+INFO - Forwarding the user to error page
+INFO - Here is the information you submitted to the server<br/>First Name: 1111<br/>Last Name: 2222<br/>Email: 3333<br/>Password: 4444<br/>Description: 5555<br/>Interests: 6666<br/>Occupation: 77777<br/>Location: 8888
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Authentication result:true
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - Finished sending the success login page info.
+INFO - Forwarding the user to the home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Authentication result:false
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - Finished sending the error page data
+INFO - Forwarding the user to error page
+INFO - Here is the information you submitted to the server<br/>First Name: Peter<br/>Last Name: Fromton<br/>Email: pfromton@mail.com<br/>Password: welcome<br/>Description: honest<br/>Interests: sports<br/>Occupation: IT<br/>Location: Arizona
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished sending the success login page info.
+INFO - Forwarding the user to the home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:false
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished sending the error page data
+INFO - Forwarding the user to error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:false
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished sending the error page data
+INFO - Forwarding the user to error page
+INFO - Here is the information you submitted to the server<br/>First Name: John<br/>Last Name: Doe<br/>Email: jdo@mail.com<br/>Password: Welcome1<br/>Description: Hard-working<br/>Interests: Travelling<br/>Occupation: Hawaii<br/>Location: Hard-working
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Here is the information you submitted to the server<br/>First Name: John<br/>Last Name: Doe<br/>Email: jdo@mail.com<br/>Password: Welcome1<br/>Description: h<br/>Interests: Travelling<br/>Occupation: IT<br/>Location: Hawaii
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Here is the information you submitted to the server<br/>First Name: John<br/>Last Name: Doe<br/>Email: jdo@mail.com<br/>Password: Welcome1<br/>Description: Hard-working<br/>Interests: Travelling<br/>Occupation: IT<br/>Location: Hawaii
+INFO - EchoServer receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished resending the data received by the server!
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Authentication result:true
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - Finished sending the success login page info.
+INFO - Forwarding the user to the home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Authentication result:false
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - Finished sending the error page data
+INFO - Forwarding the user to error page
+INFO - Here is the information you submitted to the server<br/>First Name: Peter<br/>Last Name: Fromton<br/>Email: pfromton@mail.com<br/>Password: welcome<br/>Description: honest<br/>Interests: sports<br/>Occupation: IT<br/>Location: Arizona
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@41aef798    username = admin    password = welcome     )
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - Finished sending the success login page info.
+INFO - Forwarding the user to the home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Authentication result:false
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@576eeb9    username =     password =      )
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - Finished sending the error page data
+INFO - Forwarding the user to error page
+INFO - Here is the information you submitted to the server<br/>First Name: Peter<br/>Last Name: Fromton<br/>Email: pfromton@mail.com<br/>Password: welcome<br/>Description: honest<br/>Interests: sports<br/>Occupation: IT<br/>Location: Arizona
+INFO - ProfileBean ( com.matchmaking.model.domain.ProfileBean@4b5a142f    firstName = Peter    lastName = Fromton    email = pfromton@mail.com    password = welcome    description = honest    interests = sports    occupation = IT    location = Arizona     )
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@5c429be9    username = admin    password = welcome     )
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - Finished sending the success login page info.
+INFO - Forwarding the user to the home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Authentication result:false
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@14cef147    username =     password =      )
+INFO - LoginServlet receiving request from 127.0.0.1
+INFO - Finished sending the error page data
+INFO - Forwarding the user to error page
+INFO - Here is the information you submitted to the server<br/>First Name: Peter<br/>Last Name: Fromton<br/>Email: pfromton@mail.com<br/>Password: welcome<br/>Description: honest<br/>Interests: sports<br/>Occupation: IT<br/>Location: Arizona
+INFO - ProfileBean ( com.matchmaking.model.domain.ProfileBean@4dc4e792    firstName = Peter    lastName = Fromton    email = pfromton@mail.com    password = welcome    description = honest    interests = sports    occupation = IT    location = Arizona     )
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@7711089b    username = admin    password = welcome     )
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished sending the success login page info.
+INFO - Forwarding the user to the home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@745bb9d    username = admin    password = welcome     )
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished sending the success login page info.
+INFO - Forwarding the user to the home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:false
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@24eff2c    username = admin    password = welcom     )
+INFO - LoginServlet receiving request from 0:0:0:0:0:0:0:1
+INFO - Finished sending the error page data
+INFO - Forwarding the user to error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@235dc721    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@14a2da07    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@40ad8bb4    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@31930611    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@235dc721    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@73204425    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@4b5a142f    username = admin    password = welcome     )
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@1ae637f0    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@242110fc    username = admin    password = welcome     )
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@1494b146    username = admin    password = welcome     )
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@4f980c26    username = admin    password = welcome     )
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@2501e081    username = admin    password = welcome     )
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@73204425    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@4b5a142f    username = admin    password = welcome     )
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@61bc59aa    username = admin    password = welcome     )
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@2383e965    username = admin    password = welcome     )
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@5704a4b6    username = admin    password = welcome     )
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@2b735f84    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - Here is the information you submitted to the server<br/>First Name: Peter<br/>Last Name: Fromton<br/>Email: pfromton@mail.com<br/>Password: welcome<br/>Description: honest<br/>Interests: sports<br/>Occupation: IT<br/>Location: Arizona
+INFO - ProfileBean ( com.matchmaking.model.domain.ProfileBean@67e6cf07    firstName = Peter    lastName = Fromton    email = pfromton@mail.com    password = welcome    description = honest    interests = sports    occupation = IT    location = Arizona     )
+INFO - EchoServer receiving request from 127.0.0.1
+INFO - Finished resending the data received by the server!
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@91456c5    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@745bb9d    username = admin    password = welcome     )
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@199b7c62    username = admin    password = welcome     )
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@1e929ba3    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@14a2da07    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:false
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@71dd95c    username = admin    password = password     )
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@73204425    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:false
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@71966070    username = admin    password = password     )
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Authentication result:true
+INFO - LoginBean ( com.matchmaking.model.domain.LoginBean@6e3404f    username = admin    password = welcome     )
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 127.0.0.1
+INFO - Forwarding the user to jsp error page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - LoginCtrl receiving request from 0:0:0:0:0:0:0:1
+INFO - Forwarding the user to the jsp home page
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
+INFO - Dispatching to the servlet that displays the server received data
